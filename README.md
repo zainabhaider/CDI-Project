@@ -12,4 +12,4 @@ Exploring Gender and Ethnicity Differences in Diabetes Health Outcomes from the 
 https://medium.com/@zainab.haider/exploring-gender-and-ethnicity-differences-in-diabetes-health-outcomes-from-the-cdi-dataset-1bc95da826ac
 
 Exploring the Relationship between Diabetes, High Blood Pressure, and High Cholesterol in the CDI Diabetes Dataset
-https://medium.com/@zainab.haider/exploring-the-relationship-between-diabetes-high-blood-pressure-and-high-cholesterol-in-the-cdi-16f15fc80b73
+https://towardsdatascience.com/exploring-the-relationship-between-diabetes-high-blood-pressure-and-high-cholesterol-in-the-cdi-16f15fc80b73
