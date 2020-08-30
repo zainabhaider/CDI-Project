@@ -1,9 +1,12 @@
 # CDI-Project
-Data Cleaning and EDA for the CDC's Chronic Disease Indicators: Diabetes dataset
-
+For this project, my goal was to conduct Data Cleaning and Exploratory Data Analysis for the CDC's Chronic Disease Indicators (CDI): Diabetes dataset.
 Data set is found here: https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-Diabetes/f8ti-h92k
 
-I have written articles on Medium about the data cleaning process for this analysis, as well as summaries for my findings from exploratory data analysis:
+**Summary:**
+Diabetes is a major public health crisis in the United States, and I wanted to use the CDI dataset to study diabetes health outcomes. First, I performed data cleaning to remove unwanted columns/data and identify questions to answer. I investigated two questions by conducting exploratory data analysis:
+- The role of gender and ethnicity differences in diabetes health ouctomes
+- The relationship between diabetes, high blood pressure, and high cholesterol
+Finally, I summarized my findings from these investigations and presented it to Medium:
 
 Data Cleaning for the Chronic Disease Indicators: Diabetes Dataset
 https://medium.com/@zainab.haider/data-cleaning-for-the-chronic-disease-indicators-diabetes-dataset-876f46a68cb3 
